@@ -2,8 +2,8 @@
 CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
@@ -31,4 +31,4 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 
 🕘️更新时间,#genre#
-2025-06-10 18:27:47,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+2025-06-11 06:22:43,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
