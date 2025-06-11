@@ -2,8 +2,8 @@
 CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
+CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
@@ -12,7 +12,7 @@ CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
 CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
@@ -24,16 +24,14 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-重庆卫视,http://121.17.146.34:50003/hls/49/index.m3u8
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-辽宁卫视,http://125.125.129.210:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 
 🕘️更新时间,#genre#
-2025-06-11 06:22:43,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+2025-06-11 18:25:43,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
