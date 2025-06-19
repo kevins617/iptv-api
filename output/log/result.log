@@ -1,47 +1,43 @@
-Name: CCTV-1, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1282 ms, Speed: 3.84 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv2, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2743 ms, Speed: 0.88 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv3, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2385 ms, Speed: 0.91 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: https://smart.pendy.dpdns.org/Smart.php?id=Cctv4, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5 ms, Speed: 237.97 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv4, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1651 ms, Speed: 0.34 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv5, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 369 ms, Speed: 8.45 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1842 ms, Speed: 0.42 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://omnix.cn:4000/udp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 496 ms, Speed: 0.11 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 459 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv6, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2614 ms, Speed: 0.87 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv7, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1297 ms, Speed: 1.60 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://omnix.cn:4000/udp/225.1.8.7:8104, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 496 ms, Speed: 0.26 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2612 ms, Speed: 0.86 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 3114 ms, Speed: 0.86 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://119.32.12.17:2901/udp/224.1.100.29:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 444 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 325 ms, Speed: 3.25 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2185 ms, Speed: 1.33 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1855 ms, Speed: 1.20 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1025 ms, Speed: 0.63 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1407 ms, Speed: 0.30 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1623 ms, Speed: 0.27 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2250 ms, Speed: 1.30 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv14, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2615 ms, Speed: 0.84 M/s, Resolution: 1920x1080
-Name: CCTV-15, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv15, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2086 ms, Speed: 0.56 M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1050 ms, Speed: 0.61 M/s, Resolution: 1920x1080
-Name: 四川卫视, URL: http://119.32.12.17:2901/udp/224.1.100.72:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 443 ms, Speed: 0.21 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 162 ms, Speed: 5.74 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1451 ms, Speed: 0.47 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 580 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 湖南卫视, URL: http://119.32.12.17:2901/udp/224.1.100.98:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 443 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=beijing, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 4 ms, Speed: 373.03 M/s, Resolution: 1920x1080
-Name: 湖北卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=hubei, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1931 ms, Speed: 0.47 M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 182 ms, Speed: 6.17 M/s, Resolution: 1920x1080
-Name: 安徽卫视, URL: http://121.17.146.178:50003/hls/46/index.m3u8, IPv_Type: ipv4, Location: 中国-河北-衡水, ISP: 联通, Date: None, Delay: 5883 ms, Speed: 0.00 M/s, Resolution: None
-Name: 安徽卫视, URL: http://101.66.199.24:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: 3409 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东方卫视, URL: https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1049 ms, Speed: 0.61 M/s, Resolution: 1920x1080
-Name: 东南卫视, URL: http://119.32.12.17:2901/udp/224.1.100.56:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 443 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: 东南卫视, URL: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1411 ms, Speed: 0.24 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 2090 ms, Speed: 1.20 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 1164 ms, Speed: 1.10 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=guangxi, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2482 ms, Speed: 0.85 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: http://live.cztv.cc:85/live/ggpd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 389 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 河北卫视, URL: https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1967 ms, Speed: 0.65 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 886 ms, Speed: 1.14 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 210 ms, Speed: 8.64 M/s, Resolution: 1920x1080
-Name: 深圳卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=shenzhen, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1547 ms, Speed: 0.26 M/s, Resolution: 1920x1080
-Name: 天津卫视, URL: http://121.17.146.178:50003/hls/40/index.m3u8, IPv_Type: ipv4, Location: 中国-河北-衡水, ISP: 联通, Date: None, Delay: 5400 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5884 ms, Speed: 0.50 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv2, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5856 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv3, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5450 ms, Speed: 0.45 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://smart.pendy.dpdns.org/Smart.php?id=Cctv4, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2864 ms, Speed: 0.86 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv4, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5495 ms, Speed: 0.18 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://omnix.cn:4000/udp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 428 ms, Speed: 0.64 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1858 ms, Speed: 0.40 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv5, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5318 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 438 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv6, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5541 ms, Speed: 0.29 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://omnix.cn:4000/udp/225.1.8.7:8104, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 428 ms, Speed: 0.79 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv7, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5915 ms, Speed: 0.44 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5486 ms, Speed: 0.37 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5995 ms, Speed: 0.40 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://119.32.12.17:2901/udp/224.1.100.29:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 428 ms, Speed: 0.26 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 51 ms, Speed: 45.82 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 380 ms, Speed: 3.17 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1885 ms, Speed: 1.52 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 898 ms, Speed: 0.72 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1153 ms, Speed: 0.32 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1332 ms, Speed: 0.30 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1905 ms, Speed: 1.53 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv14, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5719 ms, Speed: 0.40 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv15, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5365 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 895 ms, Speed: 0.72 M/s, Resolution: 1920x1080
+Name: 四川卫视, URL: http://119.32.12.17:2901/udp/224.1.100.72:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 428 ms, Speed: 0.13 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 41 ms, Speed: 18.03 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 224 ms, Speed: 3.96 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 16 ms, Speed: 0.02 M/s, Resolution: None
+Name: 北京卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=beijing, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 12 ms, Speed: 301.95 M/s, Resolution: 1920x1080
+Name: 湖北卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=hubei, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5781 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 245 ms, Speed: 4.51 M/s, Resolution: 1920x1080
+Name: 东方卫视, URL: https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 879 ms, Speed: 0.73 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2606 ms, Speed: 2.00 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://119.32.12.17:2901/udp/224.1.100.56:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 429 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 917 ms, Speed: 2.70 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 690 ms, Speed: 1.82 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=guangxi, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5671 ms, Speed: 0.26 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: http://live.cztv.cc:85/live/ggpd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 435 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 河北卫视, URL: https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 2340 ms, Speed: 0.58 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 149 ms, Speed: 4.72 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 297 ms, Speed: 5.88 M/s, Resolution: 1920x1080
+Name: 深圳卫视, URL: https://smart.pendy.dpdns.org/Smart.php?id=shenzhen, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 5186 ms, Speed: 0.32 M/s, Resolution: 1920x1080
