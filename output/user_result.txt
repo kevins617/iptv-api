@@ -1,7 +1,6 @@
 📺央视频道,#genre#
 CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5+,http://124.220.159.96:35455/mgtv/641886773.m3u8
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
@@ -19,7 +18,8 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://124.220.159.96:35455/mgtv/738910838.m3u8
+天津卫视,http://1.24.190.98:10080/hls/69/index.m3u8
 
 🕘️更新时间,#genre#
-2025-06-24 06:23:58,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
+2025-06-24 18:27:09,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
