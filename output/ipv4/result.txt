@@ -5,10 +5,8 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 
 📡卫视频道,#genre#
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-安徽卫视,http://61.156.228.12:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 🕘️更新时间,#genre#
-2025-06-25 06:23:05,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+2025-06-25 18:25:33,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
