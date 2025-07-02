@@ -3,7 +3,6 @@ CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📡卫视频道,#genre#
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
@@ -16,4 +15,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🕘️更新时间,#genre#
-2025-07-02 18:25:53,http://omnix.cn:4000/udp/225.1.8.89:8000
+2025-07-03 06:21:32,http://omnix.cn:4000/udp/225.1.8.89:8000
