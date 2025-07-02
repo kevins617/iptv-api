@@ -14,7 +14,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8
 
 🕘️更新时间,#genre#
-2025-07-02 06:21:45,http://omnix.cn:4000/udp/225.1.8.89:8000
+2025-07-02 18:25:53,http://omnix.cn:4000/udp/225.1.8.89:8000
