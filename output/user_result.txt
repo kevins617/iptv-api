@@ -1,18 +1,15 @@
 📺央视频道,#genre#
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📡卫视频道,#genre#
-四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 🕘️更新时间,#genre#
-2025-07-03 06:21:32,http://omnix.cn:4000/udp/225.1.8.89:8000
+2025-07-03 18:25:10,http://omnix.cn:4000/udp/225.1.8.89:8000
